@@ -1,0 +1,9 @@
+{
+  "name": "saybot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "ODM5NDkyMzcxMTkxOTU1NTI4.GrTkvW.OD_d0n3H5wtkdhUSh0eimW8QhiyVb2RfAfDiUY",
+  "prefix": ".",
+  "serverIP": "154.16.67.17",
+  "serverPort": 30244
+}
