@@ -1,6 +1,6 @@
 name: "HerraduraRP"
 lang: "en"
-token: "TokenAqui" # Discord bot token
+token: "TokenAquii" # Discord bot token
 interval: 10000 # ms
 server: "132.74.217.48:30120"
 
